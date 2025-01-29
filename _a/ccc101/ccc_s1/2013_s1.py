@@ -1,3 +1,4 @@
+# while True:
 a = int(input())
 
 while True:
